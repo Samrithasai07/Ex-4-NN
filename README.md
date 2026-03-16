@@ -3,7 +3,7 @@
 <H3>ENTER YOUR REGISTER NO : 212224040286 </H3>
 <H3>EX. NO.4</H3>
 
-<H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
+<H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1> 
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
 <H3>Theory</H3>
